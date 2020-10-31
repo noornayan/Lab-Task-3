@@ -1,0 +1,14 @@
+D:\C#\Lab task 3\main\main\bin\Debug\main.exe.config
+D:\C#\Lab task 3\main\main\bin\Debug\main.exe
+D:\C#\Lab task 3\main\main\bin\Debug\main.pdb
+D:\C#\Lab task 3\main\main\obj\Debug\main.csprojAssemblyReference.cache
+D:\C#\Lab task 3\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+D:\C#\Lab task 3\main\main\obj\Debug\main.exe
+D:\C#\Lab task 3\main\main\obj\Debug\main.pdb
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\bin\Debug\main.exe.config
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\bin\Debug\main.exe
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\bin\Debug\main.pdb
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\obj\Debug\main.exe
+C:\Users\User\Downloads\Compressed\Lab-3-sec-j-master\main\main\obj\Debug\main.pdb
